@@ -1,0 +1,11 @@
+ASPHALT TRAINER – INSTALLIERBARE iPHONE-APP
+
+1. Den gesamten Ordner Asphalt-Trainer-PWA bei Netlify als Website hochladen.
+2. Den HTTPS-Link in Safari auf dem iPhone öffnen.
+3. Safari: Teilen -> Zum Home-Bildschirm -> Hinzufügen.
+4. App-Symbol öffnen, Namen eingeben, Training starten.
+5. Den HTTPS-Link per WhatsApp an die Mitarbeiter senden.
+
+Hinweis: Der ZIP-Ordner ist keine App-Store-App. Die ZIP-Datei vor dem Hochladen entpacken.
+Bei Aktualisierungen die Webseite neu laden. Fortschritte liegen nur auf dem jeweiligen Gerät.
+Übungsfragen, keine offiziellen Prüfungsfragen.
